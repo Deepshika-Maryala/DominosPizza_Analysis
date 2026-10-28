@@ -69,9 +69,6 @@ Select (sum(quantity)/count(distinct(order_id))) as Average_pizzas_per_order fro
 ### User Interactive features:
 - Filters: Allows the user to filter by pizza category.
 - Slicers: Provide options for different time periods (days, months).
-### Project Phases And Milestones:
-- Data Collection and Preparation: May 2024
-- Dashboard Design and Development: July 2024
 ## Report Snapshots (Power BI Desktop):
 
 ![Screenshot 2024-09-26 163300](https://github.com/user-attachments/assets/aeae4d67-a4be-40a5-b4d4-2d0d23a600f2)
